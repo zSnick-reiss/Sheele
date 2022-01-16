@@ -1,5 +1,5 @@
 # Sheele
 
 <div>
-  <h1>Utilidades</h1>
+  <p>Uma simples e simpática bot para seu servidor de discord. </p>
 </div>
